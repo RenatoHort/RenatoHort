@@ -1,6 +1,6 @@
 # Renato Hortêncio
 
-
+![giphy](https://github.com/RenatoHort/RenatoHort/assets/166071583/0a0449f8-729f-4a8b-9031-76730e719e78)
 
 
 * Olá! Sou estudante de Engenharia de Software, e busco uma maneira de conectar e integrar as principais tecnologias atuais com a sociedade em sua totalidade.
